@@ -1,0 +1,17 @@
+QPushButton{
+        background-image: url(:/images/images/exitButton.png);
+	border-style:outset;
+	border-radius:30px;
+}
+
+QPushButton:hover{
+        background-image: url(:/images/images/exitButton_hover.png);
+	border-style:outset;
+	border-radius:30px;
+}
+
+QPushButton:pressed{
+        background-image: url(:/images/images/exitButton_hover.png);
+	border-style:outset;
+	border-radius:30px;
+}

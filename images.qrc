@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/backGround.jpg</file>
+        <file>images/blackchess_now.png</file>
+        <file>images/blackchess.png</file>
+        <file>images/exitButton_hover.png</file>
+        <file>images/exitButton.png</file>
+        <file>images/gamewidget.png</file>
+        <file>images/withdrawButton_hover.png</file>
+        <file>images/withdrawButton.png</file>
+        <file>images/startButton.png</file>
+        <file>images/whitechess_now.png</file>
+        <file>images/whitechess.png</file>
+        <file>images/startButton_hover.png</file>
+        <file>logo.ico</file>
+        <file>images/moves_sound.wav</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/endPushButton.qss</file>
+        <file>qss/startPushButton.qss</file>
+        <file>qss/startQss.qss</file>
+        <file>qss/withdrawPushButton.qss</file>
+        <file>qss/diffculy.qss</file>
+    </qresource>
+</RCC>
